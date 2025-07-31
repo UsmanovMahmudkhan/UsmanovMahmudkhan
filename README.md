@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://tenor.com/view/psvm-java-programming-jvm-gif-1441586475501640751">
-    <img src="https://tenor.com/bSED0tNWwB9.gif" alt="PSVM Java GIF" height="240px" />
-  </a>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJlZm5vd251cHRha25rZDQyMGllZWE0amVra3dmaGw0YmpvN2hncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Coding Meme" height="240px" />
 </div>
 ---
 
