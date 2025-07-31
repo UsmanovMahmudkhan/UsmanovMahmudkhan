@@ -1,11 +1,7 @@
 <div align="center">
-  <a href="https://github.com/UsmanovMahmudkhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3C&lines=Welcome+to+Mahmudkhon%27s+GitHub+Profile%3CSystem.out.println(%22Hello+World%22);" alt="Typing SVG" />
+  <a href="https://tenor.com/view/psvm-java-programming-jvm-gif-1441586475501640751">
+    <img src="https://tenor.com/bSED0tNWwB9.gif" alt="PSVM Java GIF" height="240px" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xUPGcsP46KhmfF1b6w/giphy.gif" alt="Developer Focus" height="240px" />
 </div>
 ---
 
