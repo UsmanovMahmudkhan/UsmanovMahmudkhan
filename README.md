@@ -43,13 +43,6 @@ I believe in building a strong foundation. Right now, I'm focusing on studying t
 
 ---
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
-<iframe
-style="position:absolute; width:100%; height:100%;"
-src="https://memes.getyarn.io/yarn-clip/e8464fa0-1b98-4ec3-840e-72f61d8e6593/embed?autoplay=false&responsive=true"
-frameborder="0"
-></iframe>
-</div>
-
+[![Watch the clip](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://memes.getyarn.io/yarn-clip/e8464fa0-1b98-4ec3-840e-72f61d8e6593)
 
 
