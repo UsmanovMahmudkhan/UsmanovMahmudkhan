@@ -43,6 +43,5 @@ I believe in building a strong foundation. Right now, I'm focusing on studying t
 
 ---
 
-[![Watch the clip](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://memes.getyarn.io/yarn-clip/e8464fa0-1b98-4ec3-840e-72f61d8e6593)
-
+[![Watch the clip](assets/yarn-preview.gif)](https://memes.getyarn.io/yarn-clip/e8464fa0-1b98-4ec3-840e-72f61d8e6593)
 
