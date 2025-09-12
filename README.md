@@ -19,7 +19,7 @@ I believe in building a strong foundation. Right now, I'm focusing on studying t
 * System Design Interview by Alex Xu
 * Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
