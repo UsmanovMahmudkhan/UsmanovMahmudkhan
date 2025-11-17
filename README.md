@@ -11,8 +11,9 @@ I'm **Mahmudkhon Usmanov**, a dedicated Computer Science student at **Sejong Uni
 
 I believe in building a strong foundation. Right now, I'm focusing on studying these key books and resources:
 
-* The Complete Reference by Herbert Schildt (Java SE 17)
-* Effective Java by Joshua Bloch
+* The Complete Reference by Herbert Schildt (Java SE 17) - completed
+* Effective Java by Joshua Bloch - learning
+* Spring start here - learning
 * Java Concurrency in Practice by Brian Goetz
 * Cracking the Coding Interview by Gayle Laakmann McDowell
 * Designing Data-Intensive Applications by Martin Kleppmann
@@ -37,9 +38,5 @@ I believe in building a strong foundation. Right now, I'm focusing on studying t
 </div>
 
 
-###  Motivational Quote
 
-> "The only way to do great work is to love what you do." - Steve Jobs
-
----
 
