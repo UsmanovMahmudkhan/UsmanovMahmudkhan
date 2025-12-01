@@ -7,8 +7,8 @@
 Right now, I'm focusing on studying these key books and resources:
 
 * The Complete Reference by Herbert Schildt (Java SE 17) - **completed**
-* Effective Java by Joshua Bloch - learning
-* Spring start here - learning
+* Effective Java by Joshua Bloch - **learning**
+* Spring start here - **learning**
 * Java Concurrency in Practice by Brian Goetz
 * Cracking the Coding Interview by Gayle Laakmann McDowell
 * Designing Data-Intensive Applications by Martin Kleppmann
